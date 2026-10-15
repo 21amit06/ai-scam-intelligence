@@ -1,0 +1,20 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm settings
+.idea/
+
+# Secrets
+.env
+
+# Datasets
+*.csv
+
+# Log files
+*.log
